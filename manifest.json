@@ -1,0 +1,25 @@
+{
+  "name": "Pij Wode",
+  "short_name": "Pij Wode",
+  "description": "Aplikacja pomagają śledzić ile wody dziennie pijesz.",
+  "lang": "pl",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#74b2d1",
+	"background_color": "#74b2d1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/img/logo64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/img/logo192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/logo512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
